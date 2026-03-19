@@ -1,0 +1,1 @@
+Proiect ce contine activitatea la seminarul de Calitate si Testare Software 
