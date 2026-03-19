@@ -1,0 +1,2 @@
+Surugiu,Alexia,21,83,1,IBM,2800,Programator,
+Preda,Ana,27,80,1,Google,2300,Marketing Specialist,
