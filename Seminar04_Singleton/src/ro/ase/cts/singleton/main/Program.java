@@ -2,7 +2,7 @@ package src.ro.ase.cts.singleton.main;
 
 import src.ro.ase.cts.singleton.clase.Logger;
 
-public class Main {
+public class Program {
     public static void main(String []args){
         Logger instance=Logger.getInstanta("Interfata","afisare");
         instance.afiseazaLog("fisierul JSON nu e afisat corect");
